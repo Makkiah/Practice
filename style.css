@@ -53,7 +53,7 @@ nav {
 }
 
 nav li:hover {
-   background-color: lightskyblue;
+   background-color: orange;
    color: black;
    transition: .5s;
 }
